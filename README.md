@@ -31,9 +31,9 @@ Requirements:  - Console
 				 When you choose Buy option you will see inventory of the vendor in this order: Slot 1: item Slot 2: item and so on.
 				 To buy an item type number of its slot. To exit the buy menu type 0.
 				 When you choose Sell option its the same as buy menu but with your inventory.
-					Hint: Vendors don't buy stuff that they aren't selling i.e. Blacksmith won't buy potions but onlz weapons and armor etc.
+					Hint: Vendors don't buy stuff that they aren't selling i.e. Blacksmith won't buy potions but only weapons and armor etc.
 
 	End the game: If your health drop to 0 or less you will die and the game will be over or you can commit suicide by typing Q(q) when not in city or combat.
 	!WARNING!: The Death is permanent and cannot be undone!
 -------------------------------------------------------------------------------------------------------------
-   Current version Alpha 2														    Author: Milan Habrcetl
+
